@@ -1,0 +1,13 @@
+name: kettle
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - pip
+  - gdal
+  - geopandas
+  - fsspec
+  - psycopg2
+  - sqlalchemy
+  - geoalchemy2
+  - tqdm
